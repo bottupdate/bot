@@ -13,7 +13,7 @@ const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = 'DANI BOT :V '; 
+const BotName = 'Bot Danii:v'; 
 const instagram = 'https://instagram.com/rahmadanireal'; 
 const telegram = 'https://t.me/inidanii'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
